@@ -1,1 +1,21 @@
-
+{
+  "products": [
+    {
+      "name": "80z Regular Tea Concentrate",
+      "options": [
+        {
+          "qty": "1",
+          "price": "$13.00",
+          "image": "images/hibiscus-1.jpg",
+          "mals_id": "HIB-01"
+        },
+        {
+          "qty": "2",
+          "price": "$24.00 ($12.00/bottle)",
+          "image": "images/hibiscus-3.jpg",
+          "mals_id": "HIB-03"
+        }
+      ]
+    }
+  ]
+}
