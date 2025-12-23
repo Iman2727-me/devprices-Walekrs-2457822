@@ -1,34 +1,41 @@
 {
   "products": [
     {
-      "name": "8oz Regular Tea Concentrate",
+      "name": "8oz Caffeinated Tea Concentrate",
       "options": [
-        {
-          "qty": "1 Bottle",
-          "price": "13.00",
-          "unit_price": "",
-          "image": "placeholder",
-          "mals_id": "REG-01"
-        },
-        {
-          "qty": "2 Bottles",
-          "price": "24.00",
-          "unit_price": "($12.00/ea)",
-          "image": "placeholder",
-          "mals_id": "REG-02"
-        }
+        { "qty": "1 Bottle", "price": "13.00", "unit_price": "", "image": "placeholder", "mals_id": "8CAF-01" },
+        { "qty": "2 Bottles", "price": "24.00", "unit_price": "($12.00/ea)", "image": "placeholder", "mals_id": "8CAF-02" },
+        { "qty": "4 Bottles", "price": "44.00", "unit_price": "($11.00/ea)", "image": "placeholder", "mals_id": "8CAF-04" },
+        { "qty": "10 Bottles", "price": "100.00", "unit_price": "($10.00/ea)", "image": "placeholder", "mals_id": "8CAF-10" }
       ]
     },
     {
-      "name": "8oz Hibiscus Tea Concentrate",
+      "name": "8oz Decaf Tea Concentrate",
       "options": [
-        {
-          "qty": "1 Bottle",
-          "price": "15.00",
-          "unit_price": "",
-          "image": "placeholder",
-          "mals_id": "HIB-01"
-        }
+        { "qty": "1 Bottle", "price": "13.00", "unit_price": "", "image": "placeholder", "mals_id": "8DEC-01" },
+        { "qty": "2 Bottles", "price": "24.00", "unit_price": "($12.00/ea)", "image": "placeholder", "mals_id": "8DEC-02" },
+        { "qty": "4 Bottles", "price": "44.00", "unit_price": "($11.00/ea)", "image": "placeholder", "mals_id": "8DEC-04" },
+        { "qty": "10 Bottles", "price": "100.00", "unit_price": "($10.00/ea)", "image": "placeholder", "mals_id": "8DEC-10" }
+      ]
+    },
+    {
+      "name": "32oz Caffeinated Tea Concentrate",
+      "options": [
+        { "qty": "1 Bottle", "price": "35.00", "unit_price": "", "image": "placeholder", "mals_id": "32CAF-01" },
+        { "qty": "2 Bottles", "price": "66.00", "unit_price": "($33.00/ea)", "image": "placeholder", "mals_id": "32CAF-02" },
+        { "qty": "3 Bottles", "price": "93.00", "unit_price": "($31.00/ea)", "image": "placeholder", "mals_id": "32CAF-03" },
+        { "qty": "4 Bottles", "price": "120.00", "unit_price": "($30.00/ea)", "image": "placeholder", "mals_id": "32CAF-04" },
+        { "qty": "9 Bottles", "price": "252.00", "unit_price": "($28.00/ea)", "image": "placeholder", "mals_id": "32CAF-09" }
+      ]
+    },
+    {
+      "name": "32oz Decaf Tea Concentrate",
+      "options": [
+        { "qty": "1 Bottle", "price": "35.00", "unit_price": "", "image": "placeholder", "mals_id": "32DEC-01" },
+        { "qty": "2 Bottles", "price": "66.00", "unit_price": "($33.00/ea)", "image": "placeholder", "mals_id": "32DEC-02" },
+        { "qty": "3 Bottles", "price": "93.00", "unit_price": "($31.00/ea)", "image": "placeholder", "mals_id": "32DEC-03" },
+        { "qty": "4 Bottles", "price": "120.00", "unit_price": "($30.00/ea)", "image": "placeholder", "mals_id": "32DEC-04" },
+        { "qty": "9 Bottles", "price": "252.00", "unit_price": "($28.00/ea)", "image": "placeholder", "mals_id": "32DEC-09" }
       ]
     }
   ]
