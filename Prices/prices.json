@@ -4,18 +4,30 @@
       "name": "8oz Regular Tea Concentrate",
       "options": [
         {
-          "qty": "1",
+          "qty": "1 Bottle",
           "price": "13.00",
           "unit_price": "",
-          "image": "images/hibiscus-1.jpg",
-          "mals_id": "HIB-01"
+          "image": "placeholder",
+          "mals_id": "REG-01"
         },
         {
-          "qty": "2",
+          "qty": "2 Bottles",
           "price": "24.00",
-          "unit_price": "($12.00/bottle)",
-          "image": "images/hibiscus-3.jpg",
-          "mals_id": "HIB-03"
+          "unit_price": "($12.00/ea)",
+          "image": "placeholder",
+          "mals_id": "REG-02"
+        }
+      ]
+    },
+    {
+      "name": "8oz Hibiscus Tea Concentrate",
+      "options": [
+        {
+          "qty": "1 Bottle",
+          "price": "15.00",
+          "unit_price": "",
+          "image": "placeholder",
+          "mals_id": "HIB-01"
         }
       ]
     }
