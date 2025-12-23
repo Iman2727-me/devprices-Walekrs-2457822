@@ -5,13 +5,15 @@
       "options": [
         {
           "qty": "1",
-          "price": "$13.00",
+          "price": "13.00",
+          "unit_price": "",
           "image": "images/hibiscus-1.jpg",
           "mals_id": "HIB-01"
         },
         {
           "qty": "2",
-          "price": "$24.00 ($12.00/bottle)",
+          "price": "24.00",
+          "unit_price": "($12.00/bottle)",
           "image": "images/hibiscus-3.jpg",
           "mals_id": "HIB-03"
         }
