@@ -13,10 +13,11 @@
     {
       "name": "8oz Decaf Tea Concentrate",
       "options": [
-        { "qty": "1 Bottle", "price": "13.00", "unit_price": "", "image": "placeholder", "mals_id": "8DEC-01" },
-        { "qty": "2 Bottles", "price": "24.00", "unit_price": "($12.00/ea)", "image": "placeholder", "mals_id": "8DEC-02" },
-        { "qty": "4 Bottles", "price": "44.00", "unit_price": "($11.00/ea)", "image": "placeholder", "mals_id": "8DEC-04" },
-        { "qty": "10 Bottles", "price": "100.00", "unit_price": "($10.00/ea)", "image": "placeholder", "mals_id": "8DEC-10" }
+        { "qty": "1 Bottle", "price": "13.00", "unit_price": "", "image": "Prices/images/8D.png", "mals_id": "8CAF-01" },
+        { "qty": "2 Bottles", "price": "24.00", "unit_price": "($12.00/ea)", "image": "Prices/images/8D.png", "mals_id": "8DEC-02" },
+        { "qty": "3 Bottles", "price": "32.00", "unit_price": "($10.67/ea)", "image": "Prices/images/8D.png", "mals_id": "8DEC-03" },
+        { "qty": "4 Bottles", "price": "40.00", "unit_price": "($10.00/ea)", "image": "Prices/images/8D.png", "mals_id": "8DEC-04" },
+        { "qty": "10 Bottles", "price": "85.00", "unit_price": "($8.50/ea)", "image": "Prices/images/8D.png", "mals_id": "8DEC-10" }
       ]
     },
     {
