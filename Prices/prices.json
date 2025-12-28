@@ -3,7 +3,7 @@
     {
       "name": "8oz Caffeinated Tea Concentrate",
       "options": [
-        { "qty": "1 Bottle", "price": "13.00", "unit_price": "", "image": "Prices/images/8C.png", "mals_id": "8CAF-01" },
+        { "qty": "1 Bottle", "price": "13.00", "unit_price": "lol", "image": "Prices/images/8C.png", "mals_id": "8CAF-01" },
         { "qty": "2 Bottles", "price": "24.00", "unit_price": "($12.00/ea)", "image": "Prices/images/8C.png", "mals_id": "8CAF-02" },
         { "qty": "3 Bottles", "price": "32.00", "unit_price": "($10.67/ea)", "image": "Prices/images/8C.png", "mals_id": "8CAF-03" },
         { "qty": "4 Bottles", "price": "40.00", "unit_price": "($10.00/ea)", "image": "Prices/images/8C.png", "mals_id": "8CAF-04" },
