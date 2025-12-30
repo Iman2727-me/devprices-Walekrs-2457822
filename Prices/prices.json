@@ -23,10 +23,10 @@
     {
       "name": "32oz Caffeinated Tea Concentrate",
       "options": [
-        { "qty": "1 Bottle", "price": "30.00", "unit_price": "($0.94/gal)", "image": "Prices/images/32C/32C-1", "mals_id": "32CAF-01" },
-        { "qty": "2 Bottles", "price": "50.00", "unit_price": "($0.78/gal)", "image": "Prices/images/32C/32C-2", "mals_id": "32CAF-02" },
-        { "qty": "4 Bottles", "price": "90.00", "unit_price": "($0.70/gal)", "image": "Prices/images/32C/32C-4", "mals_id": "32CAF-04" },
-        { "qty": "9 Bottles", "price": "169.00", "unit_price": "($0.59/gal)", "image": "Prices/images/32C/32C-9", "mals_id": "32CAF-09" }
+        { "qty": "1 Bottle", "price": "30.00", "unit_price": "($0.94/gal)", "image": "Prices/images/32C/32C-1.webp", "mals_id": "32CAF-01" },
+        { "qty": "2 Bottles", "price": "50.00", "unit_price": "($0.78/gal)", "image": "Prices/images/32C/32C-2.webp", "mals_id": "32CAF-02" },
+        { "qty": "4 Bottles", "price": "90.00", "unit_price": "($0.70/gal)", "image": "Prices/images/32C/32C-4.webp", "mals_id": "32CAF-04" },
+        { "qty": "9 Bottles", "price": "169.00", "unit_price": "($0.59/gal)", "image": "Prices/images/32C/32C-9.webp", "mals_id": "32CAF-09" }
       ]
     },
     {
