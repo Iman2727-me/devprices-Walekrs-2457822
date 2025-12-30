@@ -3,11 +3,11 @@
     {
       "name": "8oz Caffeinated Tea Concentrate",
       "options": [
-        { "qty": "1 Bottle", "price": "13.00", "unit_price": "(1.63/gal)", "image": "Prices/images/8C.png", "mals_id": "8CAF-01" },
-        { "qty": "2 Bottles", "price": "24.00", "unit_price": "($1.50/gal)", "image": "Prices/images/8C.png", "mals_id": "8CAF-02" },
-        { "qty": "3 Bottles", "price": "32.00", "unit_price": "($1.33/gal)", "image": "Prices/images/8C.png", "mals_id": "8CAF-03" },
-        { "qty": "4 Bottles", "price": "40.00", "unit_price": "($1.25/gal)", "image": "Prices/images/8C.png", "mals_id": "8CAF-04" },
-        { "qty": "10 Bottles", "price": "85.00", "unit_price": "($1.06/gal)", "image": "Prices/images/8C.png", "mals_id": "8CAF-10" }
+        { "qty": "1 Bottle", "price": "13.00", "unit_price": "(1.63/gal)", "image": "Prices/images/8C/8C-1.webp", "mals_id": "8CAF-01" },
+        { "qty": "2 Bottles", "price": "24.00", "unit_price": "($1.50/gal)", "image": "Prices/images/8C/8C-2.webp", "mals_id": "8CAF-02" },
+        { "qty": "3 Bottles", "price": "32.00", "unit_price": "($1.33/gal)", "image": "Prices/images/8C/8C-3.webp", "mals_id": "8CAF-03" },
+        { "qty": "4 Bottles", "price": "40.00", "unit_price": "($1.25/gal)", "image": "Prices/images/8C/8C-4.webp", "mals_id": "8CAF-04" },
+        { "qty": "10 Bottles", "price": "85.00", "unit_price": "($1.06/gal)", "image": "Prices/images/8C/8C-10.webp", "mals_id": "8CAF-10" }
       ]
     },
     {
